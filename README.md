@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello my name is Hector I'm a current EE undergrad researcher at CSULA doing soft robotics mainly pneumatic stuff hopefully y'all will see some work on my profile soon!😄
+Hello my name is Hector I'm a current masters student in biomedical engineering doing a little ML stuff on ECG hopefully y'all will see some work on my profile soon!😄
 <!--
 **hektG/hektg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
